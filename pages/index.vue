@@ -1,5 +1,6 @@
 <template>
   <div>
+    <BaseApplyButton />
     <h1>這裡是首頁</h1>
     <NuxtLink to="/about">前往 About </NuxtLink>
     <NuxtLink to="/contact">前往 Contact </NuxtLink>
